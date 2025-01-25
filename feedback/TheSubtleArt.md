@@ -1,6 +1,6 @@
 
-# Book Title
-**Author**: The Subtle Art Of Not Giving A F*ck
+# The Subtle Art Of Not Giving A F*ck
+**Author**: Mark Manson 
 **Date Started**: 26 January, 2025
 **Date Finished**: [-]
 
